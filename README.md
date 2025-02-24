@@ -1,5 +1,9 @@
-##  Usage
+# Breach !!!
 
+
+##  How to play ?
+
+git clone the project and
 Launch `Breach.exe` at the root of the repo.
 
 
