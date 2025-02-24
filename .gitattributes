@@ -1,0 +1,4 @@
+Breach/Content/Paks/*.ucas filter=lfs diff=lfs merge=lfs -text
+Breach/Binaries/Win64/*.exe filter=lfs diff=lfs merge=lfs -text
+Breach/Content/Paks/Breach-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+Breach/Binaries/Win64/Breach.exe filter=lfs diff=lfs merge=lfs -text
